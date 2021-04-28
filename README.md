@@ -1,4 +1,7 @@
-# [Project Link](https://mmhk30313.github.io/Corona-Update-App)
+# Project Link
+
+### [https://mmhk30313.github.io/Corona-Update-App](https://mmhk30313.github.io/Corona-Update-App)
+### [https://world-corona-update.netlify.app/](https://world-corona-update.netlify.app/)
 
 ## Corona Update:
 - A simple web app can be used for knowing corona update around the world.
